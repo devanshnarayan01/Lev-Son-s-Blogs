@@ -5,6 +5,6 @@ BLOGS PROJECT IMAGES:
 
 # Lev-Son-s-Blogs
 Responsive UI project for blog reading.
-![Screenshot (88)](https://github.com/devanshnarayan01/Lev-Son-s-Blogs/assets/126651115/e54ef7da-e92b-4c91-a578-b34fe092d93a)
-![Screenshot (89)](https://github.com/devanshnarayan01/Lev-Son-s-Blogs/assets/126651115/1d4460b2-8356-4529-8d80-69c16d0bbe14)
-![Screenshot (90)](https://github.com/devanshnarayan01/Lev-Son-s-Blogs/assets/126651115/09cb83e0-f20b-430b-aa8f-46b04de9ed9b)
+![Screenshot (91)](https://github.com/devanshnarayan01/Lev-Son-s-Blogs/assets/126651115/16a7be1e-0788-4885-a17e-67361a51c240)
+![Screenshot (92)](https://github.com/devanshnarayan01/Lev-Son-s-Blogs/assets/126651115/3ff0776d-17da-4a5a-a829-b80aa39f03fd)
+![Screenshot (93)](https://github.com/devanshnarayan01/Lev-Son-s-Blogs/assets/126651115/d80d7c73-03db-4468-bf1c-72e5d47f3b30)
