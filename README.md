@@ -1,5 +1,5 @@
 # Lev-Son-s-Blogs
-JavaScript API based bolg reading website UI page. 
+JavaScript API based blog reading website UI page. 
 
 
 ![Screenshot (117)](https://github.com/devanshnarayan01/Lev-Son-s-Blogs/assets/126651115/f35a0bc7-a57b-4cd0-8955-595af75de7c5)
